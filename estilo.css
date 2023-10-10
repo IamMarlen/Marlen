@@ -1,0 +1,36 @@
+
+
+#titulo {
+    color: blueviolet;
+    border: 5px solid blue;
+    padding: 15px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.primeralista {
+    color: red;
+}
+
+ol {
+    color: red;
+
+}
+
+.segundalista {
+    color: green;
+}
+
+ul {
+    color: green;
+}
+
+ol li:hover {
+    background-color: aqua;
+    cursor: pointer;
+}
+
+ul li:hover {
+    background-color: blue;
+    cursor: pointer;
+}
